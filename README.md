@@ -10,4 +10,6 @@ Supplementary Table 3. Computer-readable version of Table 3.
 
 Supplementary Table 4. Weber and Blundy (2024) experimental database filtered for experiments containing olivine and amphibole. The database includes information about the experimental run and the source of the compiled experiment in addition to the composition of glass. To this information, we added the compositions of amphibole, olivine, and clinopyroxene, where available. 
 
+Supplementary Table 5. Weber and Blundy (2024) experimental database filtered for experiments containing olivine and amphibole, without plagioclase. 
+
 Please do feel free to reach out if any more information is required!
