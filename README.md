@@ -12,4 +12,6 @@ Supplementary Table 4. Weber and Blundy (2024) experimental database filtered fo
 
 Supplementary Table 5. Weber and Blundy (2024) experimental database filtered for experiments containing olivine and amphibole, without plagioclase. 
 
+Supplementary Table 6. Complete EPMA analyses of points presented in Figure 9. Methods are given in Supplementary Information, Methods, and Figures.
+
 Please do feel free to reach out if any more information is required!
