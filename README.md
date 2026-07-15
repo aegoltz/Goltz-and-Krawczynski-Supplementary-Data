@@ -1,4 +1,4 @@
-This is the repository for supplementary data associated with the Goltz and Krawczynski (submitted) manuscript. 
+This is the repository for supplementary data associated with the Goltz and Krawczynski (in press) manuscript in Volcanica (doi: 10.30909/vol/ljow6351). 
 
 The contents are as follows:
 
